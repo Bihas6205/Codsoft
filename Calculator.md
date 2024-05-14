@@ -4,7 +4,6 @@
 Prompt the user to input two numbers and an operation choice.
 Perform the calculation and display the result**  
 
-Click on the link to view the source code --> [link](https://github.com/Bihas6205/Codsoft/blob/main/Calculator.py)
 ```python
       num1=int(input("Enter Number 1: "))
       num2=int(input("Enter Number 2: "))
